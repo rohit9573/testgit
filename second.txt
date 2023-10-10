@@ -1,0 +1,4 @@
+working directory 
+staging
+local repisotry
+ Remote repisotry
